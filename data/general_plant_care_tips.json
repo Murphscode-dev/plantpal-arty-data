@@ -1,0 +1,47 @@
+Here are the generated JSON files:
+
+general_plant_care_tips.json
+I've derived these general tips from recurring symptom-related data. A more sophisticated approach could involve NLP, but this gives you a solid, structured starting point.
+
+&lt;immersive type="code" title="general_plant_care_tips.json" lang="json">
+
+JSON
+
+[
+  {
+    &quot;id&quot;: &quot;tip-001&quot;,
+    &quot;title&quot;: &quot;Watering Issues&quot;,
+    &quot;content&quot;: &quot;Vomiting and diarrhea in pets can sometimes be linked to ingesting plants. This is often a sign of mild toxicity. Ensure pets do not eat plant leaves, even from those considered safe.&quot;,
+    &quot;category&quot;: &quot;Pet Safety&quot;
+  },
+  {
+    &quot;id&quot;: &quot;tip-002&quot;,
+    &quot;title&quot;: &quot;Signs of Oral Irritation&quot;,
+    &quot;content&quot;: &quot;If your pet is drooling excessively or pawing at its mouth, it may have chewed on an irritating plant like a Philodendron or Dieffenbachia. Provide fresh water and monitor them closely.&quot;,
+    &quot;category&quot;: &quot;Pet Safety&quot;
+  },
+  {
+    &quot;id&quot;: &quot;tip-003&quot;,
+    &quot;title&quot;: &quot;Photosensitivity and Skin Issues&quot;,
+    &quot;content&quot;: &quot;Some plants can cause dermatitis or make skin more sensitive to sunlight (photosensitivity). If you notice skin irritation after handling plants like Parsley or Rue, wash the area thoroughly.&quot;,
+    &quot;category&quot;: &quot;Handling Plants&quot;
+  },
+  {
+    &quot;id&quot;: &quot;tip-004&quot;,
+    &quot;title&quot;: &quot;Neurological Symptoms in Pets&quot;,
+    &quot;content&quot;: &quot;Tremors, seizures, or incoordination are serious symptoms of plant toxicity. Plants like Buckeyes and Larkspur can cause these effects. Contact a veterinarian immediately if you observe these signs.&quot;,
+    &quot;category&quot;: &quot;Severe Toxicity&quot;
+  },
+  {
+    &quot;id&quot;: &quot;tip-005&quot;,
+    &quot;title&quot;: &quot;Cardiac Symptom Alert&quot;,
+    &quot;content&quot;: &quot;Plants containing cardiac glycosides, like Foxglove and Oleander, are extremely dangerous. They can cause severe cardiac arrhythmias and can be fatal if ingested. Keep these away from all pets and children.&quot;,
+    &quot;category&quot;: &quot;Severe Toxicity&quot;
+  },
+  {
+    &quot;id&quot;: &quot;tip-006&quot;,
+    &quot;title&quot;: &quot;Recognizing Liver Failure Signs&quot;,
+    &quot;content&quot;: &quot;Jaundice (yellowing of the skin/eyes), weakness, and dark stools can indicate liver failure from plant poisoning. Sago Palms (Cycas species) are a well-known cause. This is a medical emergency.&quot;,
+    &quot;category&quot;: &quot;Severe Toxicity&quot;
+  }
+]

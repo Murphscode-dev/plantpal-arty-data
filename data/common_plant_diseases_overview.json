@@ -1,0 +1,23 @@
+[
+  {
+    &quot;id&quot;: &quot;dis-001&quot;,
+    &quot;name&quot;: &quot;Powdery Mildew&quot;,
+    &quot;overview_description&quot;: &quot;A common fungal disease that appears as white, powdery spots on the leaves and stems of plants. It thrives in high humidity and moderate temperatures.&quot;,
+    &quot;common_symptoms_general&quot;: &quot;White or grayish powdery patches on leaves and shoots. Yellowing of leaves and distorted growth.&quot;,
+    &quot;general_prevention_tips&quot;: &quot;Ensure good air circulation around plants. Avoid overhead watering, especially late in the day. Choose disease-resistant varieties when possible.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;dis-002&quot;,
+    &quot;name&quot;: &quot;Root Rot&quot;,
+    &quot;overview_description&quot;: &quot;A serious fungal disease that attacks the roots of plants, most often caused by overwatering and poor drainage.&quot;,
+    &quot;common_symptoms_general&quot;: &quot;Wilting plant despite moist soil. Yellowing or browning leaves. Mushy, black, or brown roots that may smell foul.&quot;,
+    &quot;general_prevention_tips&quot;: &quot;Use well-draining potting mix. Ensure pots have drainage holes. Allow the top layer of soil to dry out between waterings.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;dis-003&quot;,
+    &quot;name&quot;: &quot;Black Spot&quot;,
+    &quot;overview_description&quot;: &quot;A fungal disease that primarily affects roses but can also appear on other plants, causing black spots to form on leaves.&quot;,
+    &quot;common_symptoms_general&quot;: &quot;Circular black spots with fringed or feathered edges on the upper side of leaves. Yellowing around the spots, leading to premature leaf drop.&quot;,
+    &quot;general_prevention_tips&quot;: &quot;Keep foliage as dry as possible. Water at the base of the plant. Clean up and destroy infected fallen leaves.&quot;
+  }
+]

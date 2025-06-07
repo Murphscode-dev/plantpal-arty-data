@@ -1,0 +1,32 @@
+[
+  {
+    &quot;id&quot;: &quot;monstera-deliciosa&quot;,
+    &quot;common_name&quot;: &quot;Swiss Cheese Plant&quot;,
+    &quot;brief_highlight&quot;: &quot;Iconic for its large, split leaves, this plant is a staple in modern interior design. It&#39;s relatively easy to care for and brings a lush, tropical feel to any room.&quot;,
+    &quot;image_placeholder&quot;: &quot;monstera_deliciosa.jpg&quot;
+  },
+  {
+    &quot;id&quot;: &quot;ficus-lyrata&quot;,
+    &quot;common_name&quot;: &quot;Fiddle-Leaf Fig&quot;,
+    &quot;brief_highlight&quot;: &quot;A dramatic and stylish plant with large, violin-shaped leaves. It makes a stunning focal point but can be particular about its light and watering needs.&quot;,
+    &quot;image_placeholder&quot;: &quot;ficus_lyrata.jpg&quot;
+  },
+  {
+    &quot;id&quot;: &quot;sansevieria-trifasciata&quot;,
+    &quot;common_name&quot;: &quot;Snake Plant&quot;,
+    &quot;brief_highlight&quot;: &quot;Known for being nearly indestructible and an excellent air purifier. Its upright, architectural leaves make it perfect for beginners and modern spaces.&quot;,
+    &quot;image_placeholder&quot;: &quot;sansevieria_trifasciata.jpg&quot;
+  },
+  {
+    &quot;id&quot;: &quot;caladium-spp&quot;,
+    &quot;common_name&quot;: &quot;Caladium (Heart of Jesus)&quot;,
+    &quot;brief_highlight&quot;: &quot;Celebrated for its incredibly colorful, heart-shaped leaves that come in shades of pink, red, white, and green. They add a vibrant splash of color to shady spots.&quot;,
+    &quot;image_placeholder&quot;: &quot;caladium.jpg&quot;
+  },
+  {
+    &quot;id&quot;: &quot;curio-rowleyanus&quot;,
+    &quot;common_name&quot;: &quot;String-of-Beads&quot;,
+    &quot;brief_highlight&quot;: &quot;A unique and whimsical trailing succulent with pea-shaped leaves. It&#39;s a popular choice for hanging baskets and adds a playful touch to plant collections.&quot;,
+    &quot;image_placeholder&quot;: &quot;string_of_beads.jpg&quot;
+  }
+]
