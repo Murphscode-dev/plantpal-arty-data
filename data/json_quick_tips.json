@@ -1,0 +1,23 @@
+[
+  {
+    "id": "qt001",
+    "title": "Watering Wisdom",
+    "fact": "Check the top inch of soil before watering. If it's dry, it's time!",
+    "tip_content": "Always check the soil moisture before watering your plants. Overwatering is a common issue. Ensure your pots have good drainage.",
+    "category": "Watering"
+  },
+  {
+    "id": "qt002",
+    "title": "Sunlight Savvy",
+    "fact": "Most houseplants prefer bright, indirect light. Avoid direct scorching sun.",
+    "tip_content": "Understand the light needs of your specific plants. East-facing windows often provide good morning light, while south-facing windows can be intense.",
+    "category": "Sunlight"
+  },
+  {
+    "id": "qt003",
+    "title": "Humidity Helpers",
+    "fact": "Many tropical plants appreciate higher humidity levels.",
+    "tip_content": "You can increase humidity by misting your plants, using a pebble tray with water, or placing a humidifier nearby, especially in dry environments.",
+    "category": "Humidity"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "pest-aphid",
+    "name": "Aphid",
+    "description": "Detailed information about Aphid (pest).",
+    "symptoms": [
+      "Common symptoms caused by Aphid."
+    ],
+    "treatmentMethods": [
+      "Recommended treatments for Aphid."
+    ],
+    "imageUrl": null
+  },
+  {
+    "id": "pest-mealy-bug",
+    "name": "Mealy bug",
+    "description": "Detailed information about Mealy bug (pest).",
+    "symptoms": [
+      "Common symptoms caused by Mealy bug."
+    ],
+    "treatmentMethods": [
+      "Recommended treatments for Mealy bug."
+    ],
+    "imageUrl": null
+  },
+  {
+    "id": "pest-n-a",
+    "name": "N/A",
+    "description": "Detailed information about N/A (pest).",
+    "symptoms": [
+      "Common symptoms caused by N/A."
+    ],
+    "treatmentMethods": [
+      "Recommended treatments for N/A."
+    ],
+    "imageUrl": null
+  },
+  {
+    "id": "pest-scale",
+    "name": "Scale",
+    "description": "Detailed information about Scale (pest).",
+    "symptoms": [
+      "Common symptoms caused by Scale."
+    ],
+    "treatmentMethods": [
+      "Recommended treatments for Scale."
+    ],
+    "imageUrl": null
+  },
+  {
+    "id": "pest-snail",
+    "name": "Snail",
+    "description": "Detailed information about Snail (pest).",
+    "symptoms": [
+      "Common symptoms caused by Snail."
+    ],
+    "treatmentMethods": [
+      "Recommended treatments for Snail."
+    ],
+    "imageUrl": null
+  },
+  {
+    "id": "pest-spider-mite",
+    "name": "Spider mite",
+    "description": "Detailed information about Spider mite (pest).",
+    "symptoms": [
+      "Common symptoms caused by Spider mite."
+    ],
+    "treatmentMethods": [
+      "Recommended treatments for Spider mite."
+    ],
+    "imageUrl": null
+  },
+  {
+    "id": "pest-thrips",
+    "name": "Thrips",
+    "description": "Detailed information about Thrips (pest).",
+    "symptoms": [
+      "Common symptoms caused by Thrips."
+    ],
+    "treatmentMethods": [
+      "Recommended treatments for Thrips."
+    ],
+    "imageUrl": null
+  },
+  {
+    "id": "pest-white-fly",
+    "name": "White fly",
+    "description": "Detailed information about White fly (pest).",
+    "symptoms": [
+      "Common symptoms caused by White fly."
+    ],
+    "treatmentMethods": [
+      "Recommended treatments for White fly."
+    ],
+    "imageUrl": null
+  }
+]

@@ -1,32 +1,152 @@
 [
   {
-    &quot;id&quot;: &quot;monstera-deliciosa&quot;,
-    &quot;common_name&quot;: &quot;Swiss Cheese Plant&quot;,
-    &quot;brief_highlight&quot;: &quot;Iconic for its large, split leaves, this plant is a staple in modern interior design. It&#39;s relatively easy to care for and brings a lush, tropical feel to any room.&quot;,
-    &quot;image_placeholder&quot;: &quot;monstera_deliciosa.jpg&quot;
+    "id": "lipstick-0",
+    "commonName": "Lipstick",
+    "scientificName": "Aeschynanthus lobianus",
+    "imageUrl": "https://images.unsplash.com/photo-1738522110080-e4d313f45f28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIzMjh8MHwxfHNlYXJjaHwxfHxBZXNjaHluYW50aHVzJTIwbG9iaWFudXN8ZW58MHx8fHwxNzQ5NTc3NDg5fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "shortDescription": "Lipstick is a cosmetic product used to apply coloration and texture to lips, often made of wax and oil. Different pigments are used to produce color,...",
+    "family": "Gesneriaceae",
+    "category": "Hanging",
+    "storeLink": null
   },
   {
-    &quot;id&quot;: &quot;ficus-lyrata&quot;,
-    &quot;common_name&quot;: &quot;Fiddle-Leaf Fig&quot;,
-    &quot;brief_highlight&quot;: &quot;A dramatic and stylish plant with large, violin-shaped leaves. It makes a stunning focal point but can be particular about its light and watering needs.&quot;,
-    &quot;image_placeholder&quot;: &quot;ficus_lyrata.jpg&quot;
+    "id": "maindenhair-1",
+    "commonName": "Maindenhair",
+    "scientificName": "Adiantum raddianum",
+    "imageUrl": "https://images.unsplash.com/photo-1661241603506-a646efe6e0df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIzMjh8MHwxfHNlYXJjaHwxfHxBZGlhbnR1bSUyMHJhZGRpYW51bXxlbnwwfHx8fDE3NDk1Nzc0OTF8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "shortDescription": "Adiantum raddianum, the Delta maidenhair fern, is one of the most popular ferns to grow indoors. It is native to South America and its common name com...",
+    "family": "Polypodiaceae",
+    "category": "Fern",
+    "storeLink": null
   },
   {
-    &quot;id&quot;: &quot;sansevieria-trifasciata&quot;,
-    &quot;common_name&quot;: &quot;Snake Plant&quot;,
-    &quot;brief_highlight&quot;: &quot;Known for being nearly indestructible and an excellent air purifier. Its upright, architectural leaves make it perfect for beginners and modern spaces.&quot;,
-    &quot;image_placeholder&quot;: &quot;sansevieria_trifasciata.jpg&quot;
+    "id": "silver-vase-2",
+    "commonName": "Silver vase",
+    "scientificName": "Aechmea fatsiata",
+    "imageUrl": "https://images.unsplash.com/photo-1600546899755-b16506bffe09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIzMjh8MHwxfHNlYXJjaHwxfHxBZWNobWVhJTIwZmF0c2lhdGF8ZW58MHx8fHwxNzQ5NTc3NDk0fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "shortDescription": "Aechmea fasciata is a species of flowering plant in the Bromeliaceae family. It is commonly called the silver vase or urn plant and is native to Brazi...",
+    "family": "Bromeliaceae",
+    "category": "Bromeliad",
+    "storeLink": null
   },
   {
-    &quot;id&quot;: &quot;caladium-spp&quot;,
-    &quot;common_name&quot;: &quot;Caladium (Heart of Jesus)&quot;,
-    &quot;brief_highlight&quot;: &quot;Celebrated for its incredibly colorful, heart-shaped leaves that come in shades of pink, red, white, and green. They add a vibrant splash of color to shady spots.&quot;,
-    &quot;image_placeholder&quot;: &quot;caladium.jpg&quot;
+    "id": "variegated-carabbean-agave-3",
+    "commonName": "Variegated Carabbean Agave",
+    "scientificName": "Agave angustilolia Marginata",
+    "imageUrl": "https://images.unsplash.com/photo-1530253551027-0cc205701e34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIzMjh8MHwxfHNlYXJjaHwxfHxBZ2F2ZSUyMGFuZ3VzdGlsb2xpYSUyME1hcmdpbmF0YXxlbnwwfHx8fDE3NDk1Nzc0OTZ8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "shortDescription": "A popular Cactus & Succulent plant.",
+    "family": "Amaryllidaceae",
+    "category": "Cactus & Succulent",
+    "storeLink": null
   },
   {
-    &quot;id&quot;: &quot;curio-rowleyanus&quot;,
-    &quot;common_name&quot;: &quot;String-of-Beads&quot;,
-    &quot;brief_highlight&quot;: &quot;A unique and whimsical trailing succulent with pea-shaped leaves. It&#39;s a popular choice for hanging baskets and adds a playful touch to plant collections.&quot;,
-    &quot;image_placeholder&quot;: &quot;string_of_beads.jpg&quot;
+    "id": "coral-berry-4",
+    "commonName": "Coral berry",
+    "scientificName": "Aechmea ramosa",
+    "imageUrl": "https://images.unsplash.com/photo-1600546899755-b16506bffe09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIzMjh8MHwxfHNlYXJjaHwxfHxBZWNobWVhJTIwcmFtb3NhfGVufDB8fHx8MTc0OTU3NzQ5N3ww&ixlib=rb-4.1.0&q=80&w=400",
+    "shortDescription": "Aechmea ramosa is a plant species in the genus Aechmea. This species is endemic to eastern Brazil.",
+    "family": "Bromeliaceae",
+    "category": "Bromeliad",
+    "storeLink": null
+  },
+  {
+    "id": "silver-vase-5",
+    "commonName": "Silver vase",
+    "scientificName": "Aechmea fasciata",
+    "imageUrl": "https://images.unsplash.com/photo-1600546899755-b16506bffe09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIzMjh8MHwxfHNlYXJjaHwxfHxBZWNobWVhJTIwZmFzY2lhdGF8ZW58MHx8fHwxNzQ5NTc3NDk5fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "shortDescription": "Aechmea fasciata is a species of flowering plant in the Bromeliaceae family. It is commonly called the silver vase or urn plant and is native to Brazi...",
+    "family": "Bromeliaceae",
+    "category": "Bromeliad",
+    "storeLink": null
+  },
+  {
+    "id": "thread-agave-6",
+    "commonName": "Thread Agave",
+    "scientificName": "Agave filifera",
+    "imageUrl": "https://images.unsplash.com/photo-1695639413111-87d8ec3b5306?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIzMjh8MHwxfHNlYXJjaHwxfHxBZ2F2ZSUyMGZpbGlmZXJhfGVufDB8fHx8MTc0OTU3NzUwMHww&ixlib=rb-4.1.0&q=80&w=400",
+    "shortDescription": "Agave filifera, the thread agave, is a species of flowering plant in the family Asparagaceae, native to Central Mexico from Quer\u00e9taro to Mexico State....",
+    "family": "Amaryllidaceae",
+    "category": "Cactus & Succulent",
+    "storeLink": null
+  },
+  {
+    "id": "rosy-maidenhair-7",
+    "commonName": "Rosy Maidenhair",
+    "scientificName": "Adiantum hispidulum",
+    "imageUrl": "https://images.unsplash.com/photo-1675701806617-cbd2249316e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIzMjh8MHwxfHNlYXJjaHwxfHxBZGlhbnR1bSUyMGhpc3BpZHVsdW18ZW58MHx8fHwxNzQ5NTc3NTAyfDA&ixlib=rb-4.1.0&q=80&w=400",
+    "shortDescription": "Adiantum hispidulum, commonly known as rough maidenhair fern or five-fingered jack, is a small fern in the family Pteridaceae of widespread distributi...",
+    "family": "Polypodiaceae",
+    "category": "Fern",
+    "storeLink": null
+  },
+  {
+    "id": "dragon-tree-agave-8",
+    "commonName": "Dragon tree Agave",
+    "scientificName": "Agave attenuata",
+    "imageUrl": "https://images.unsplash.com/photo-1530253551027-0cc205701e34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIzMjh8MHwxfHNlYXJjaHwxfHxBZ2F2ZSUyMGF0dGVudWF0YXxlbnwwfHx8fDE3NDk1Nzc1MDN8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "shortDescription": "Agave attenuata, commonly called the foxtail or lion's tail agave or the swan's neck agave, is a species of flowering plant in the family Asparagaceae...",
+    "family": "Amaryllidaceae",
+    "category": null,
+    "storeLink": null
+  },
+  {
+    "id": "chinese-evergreen-9",
+    "commonName": "Chinese Evergreen",
+    "scientificName": "Aglaonema",
+    "imageUrl": "https://images.unsplash.com/photo-1620803366004-119b57f54cd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIzMjh8MHwxfHNlYXJjaHwxfHxBZ2xhb25lbWF8ZW58MHx8fHwxNzQ5NTc3NTA1fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "shortDescription": "Aglaonema is a genus of flowering plants in the arum family, Araceae. They are native to tropical and subtropical regions of Asia and New Guinea. They...",
+    "family": "Araceae",
+    "category": "Aglaonema",
+    "storeLink": null
+  },
+  {
+    "id": "chinese-evergreen-10",
+    "commonName": "Chinese Evergreen",
+    "scientificName": "Aglaonema",
+    "imageUrl": "https://images.unsplash.com/photo-1620803366004-119b57f54cd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIzMjh8MHwxfHNlYXJjaHwxfHxBZ2xhb25lbWF8ZW58MHx8fHwxNzQ5NTc3NTA1fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "shortDescription": "Aglaonema is a genus of flowering plants in the arum family, Araceae. They are native to tropical and subtropical regions of Asia and New Guinea. They...",
+    "family": "Araceae",
+    "category": "Aglaonema",
+    "storeLink": null
+  },
+  {
+    "id": "chinese-evergreen-11",
+    "commonName": "Chinese Evergreen",
+    "scientificName": "Aglaonema",
+    "imageUrl": "https://images.unsplash.com/photo-1620803366004-119b57f54cd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIzMjh8MHwxfHNlYXJjaHwxfHxBZ2xhb25lbWF8ZW58MHx8fHwxNzQ5NTc3NTA1fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "shortDescription": "Aglaonema is a genus of flowering plants in the arum family, Araceae. They are native to tropical and subtropical regions of Asia and New Guinea. They...",
+    "family": "Araceae",
+    "category": "Aglaonema",
+    "storeLink": null
+  },
+  {
+    "id": "chinese-evergreen-12",
+    "commonName": "Chinese Evergreen",
+    "scientificName": "Aglaonema",
+    "imageUrl": "https://images.unsplash.com/photo-1620803366004-119b57f54cd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIzMjh8MHwxfHNlYXJjaHwxfHxBZ2xhb25lbWF8ZW58MHx8fHwxNzQ5NTc3NTA1fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "shortDescription": "Aglaonema is a genus of flowering plants in the arum family, Araceae. They are native to tropical and subtropical regions of Asia and New Guinea. They...",
+    "family": "Araceae",
+    "category": "Aglaonema",
+    "storeLink": null
+  },
+  {
+    "id": "chinese-evergreen-13",
+    "commonName": "Chinese Evergreen",
+    "scientificName": "Aglaonema",
+    "imageUrl": "https://images.unsplash.com/photo-1620803366004-119b57f54cd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIzMjh8MHwxfHNlYXJjaHwxfHxBZ2xhb25lbWF8ZW58MHx8fHwxNzQ5NTc3NTA1fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "shortDescription": "Aglaonema is a genus of flowering plants in the arum family, Araceae. They are native to tropical and subtropical regions of Asia and New Guinea. They...",
+    "family": "Araceae",
+    "category": "Aglaonema",
+    "storeLink": null
+  },
+  {
+    "id": "chinese-evergreen-14",
+    "commonName": "Chinese Evergreen",
+    "scientificName": "Aglaonema",
+    "imageUrl": "https://images.unsplash.com/photo-1620803366004-119b57f54cd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIzMjh8MHwxfHNlYXJjaHwxfHxBZ2xhb25lbWF8ZW58MHx8fHwxNzQ5NTc3NTA1fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "shortDescription": "Aglaonema is a genus of flowering plants in the arum family, Araceae. They are native to tropical and subtropical regions of Asia and New Guinea. They...",
+    "family": "Araceae",
+    "category": "Aglaonema",
+    "storeLink": null
   }
 ]

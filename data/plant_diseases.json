@@ -1,0 +1,110 @@
+[
+  {
+    "id": "disease-crown-rot",
+    "name": "Crown rot",
+    "description": "Detailed information about Crown rot (disease).",
+    "symptoms": [
+      "Common symptoms caused by Crown rot."
+    ],
+    "treatmentMethods": [
+      "Recommended treatments for Crown rot."
+    ],
+    "imageUrl": null
+  },
+  {
+    "id": "disease-downy-mildiou",
+    "name": "Downy mildiou",
+    "description": "Detailed information about Downy mildiou (disease).",
+    "symptoms": [
+      "Common symptoms caused by Downy mildiou."
+    ],
+    "treatmentMethods": [
+      "Recommended treatments for Downy mildiou."
+    ],
+    "imageUrl": null
+  },
+  {
+    "id": "disease-erwinia",
+    "name": "Erwinia",
+    "description": "Detailed information about Erwinia (disease).",
+    "symptoms": [
+      "Common symptoms caused by Erwinia."
+    ],
+    "treatmentMethods": [
+      "Recommended treatments for Erwinia."
+    ],
+    "imageUrl": null
+  },
+  {
+    "id": "disease-fusarium",
+    "name": "Fusarium",
+    "description": "Detailed information about Fusarium (disease).",
+    "symptoms": [
+      "Common symptoms caused by Fusarium."
+    ],
+    "treatmentMethods": [
+      "Recommended treatments for Fusarium."
+    ],
+    "imageUrl": null
+  },
+  {
+    "id": "disease-gray-mold",
+    "name": "Gray mold",
+    "description": "Detailed information about Gray mold (disease).",
+    "symptoms": [
+      "Common symptoms caused by Gray mold."
+    ],
+    "treatmentMethods": [
+      "Recommended treatments for Gray mold."
+    ],
+    "imageUrl": null
+  },
+  {
+    "id": "disease-n-a",
+    "name": "N/A",
+    "description": "Detailed information about N/A (disease).",
+    "symptoms": [
+      "Common symptoms caused by N/A."
+    ],
+    "treatmentMethods": [
+      "Recommended treatments for N/A."
+    ],
+    "imageUrl": null
+  },
+  {
+    "id": "disease-phytophtora",
+    "name": "Phytophtora",
+    "description": "Detailed information about Phytophtora (disease).",
+    "symptoms": [
+      "Common symptoms caused by Phytophtora."
+    ],
+    "treatmentMethods": [
+      "Recommended treatments for Phytophtora."
+    ],
+    "imageUrl": null
+  },
+  {
+    "id": "disease-powdery",
+    "name": "Powdery",
+    "description": "Detailed information about Powdery (disease).",
+    "symptoms": [
+      "Common symptoms caused by Powdery."
+    ],
+    "treatmentMethods": [
+      "Recommended treatments for Powdery."
+    ],
+    "imageUrl": null
+  },
+  {
+    "id": "disease-pythium",
+    "name": "Pythium",
+    "description": "Detailed information about Pythium (disease).",
+    "symptoms": [
+      "Common symptoms caused by Pythium."
+    ],
+    "treatmentMethods": [
+      "Recommended treatments for Pythium."
+    ],
+    "imageUrl": null
+  }
+]
