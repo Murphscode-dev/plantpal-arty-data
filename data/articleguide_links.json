@@ -1,12 +1,12 @@
 [
-  {
-    "id": "ext-link-001",
-    "title": "Houseplant Care for Absolute Beginners",
-    "summary": "Your complete guide to starting your houseplant journey with success.",
-    "sourceName": "PlantInfo Central",
-    "articleUrl": "https://www.example.com/beginner-plant-care",
-    "imageUrl": "https://www.example.com/images/beginner_plants.jpg"
-  },
+ {
+  "id": "ext-link-001",
+  "title": "Houseplant Care for Absolute Beginners",
+  "summary": "Your complete guide to starting your houseplant journey with success.",
+  "sourceName": "The Spruce", // Example real source
+  "articleUrl": "https://www.thespruce.com/houseplants-for-beginners-4177531", // Real URL
+  "imageUrl": "https://www.thespruce.com/thmb/example-image-from-the-spruce.jpg" // Real image URL
+}
   {
     "id": "ext-link-002",
     "title": "Top 5 Easiest Houseplants to Grow",
