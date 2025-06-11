@@ -4,7 +4,7 @@
             "title": "Self-Watering Planter",
             "shortDescription": "Create a simple self-watering planter from recycled materials.",
             "estimatedTime": "1 hour",
-            "difficulty": "Easy", // << ADD THIS FIELD (or "Medium", "Hard", etc.)
+            "difficulty": "Easy",
             "materials": [
               "Plastic bottle (2-liter)",
               "Cotton string or shoelace",
@@ -20,7 +20,8 @@
               "Invert the top part and place it into the bottom part. The string should hang down into the reservoir.",
               "Fill the top part with soil and your plant. Fill the bottom reservoir with water."
             ],
-            "imageUrl": null // "imageUrl" is correctly handled as nullable in your data class
+            "imageUrl": null 
+                    
           }
-          // ... ensure ALL other DIY projects also have the "difficulty" field ...
+       
         ]
