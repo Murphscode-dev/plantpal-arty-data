@@ -1,24 +1,26 @@
 [
-  {
-    "id": "diy001",
-    "title": "Self-Watering Planter",
-    "shortDescription": "Create a simple self-watering planter from recycled materials.",
-    "estimatedTime": "1 hour",
-    "materials": [
-      "Plastic bottle (2-liter)",
-      "Cotton string or shoelace",
-      "Soil",
-      "Plant"
-    ],
-    "steps": [
-      "Clean the plastic bottle thoroughly.",
-      "Cut the bottle in half about 4-5 inches from the bottom.",
-      "Take the top part (with the spout) and unscrew the cap. Drill or poke a few small holes in the cap.",
-      "Thread a piece of cotton string (about 6-8 inches long) through the holes in the cap, so half is inside and half outside.",
-      "Screw the cap back onto the bottle's top part.",
-      "Invert the top part and place it into the bottom part. The string should hang down into the reservoir.",
-      "Fill the top part with soil and your plant. Fill the bottom reservoir with water."
-    ],
-    "imageUrl": null
-  }
-]
+          {
+            "id": "diy001",
+            "title": "Self-Watering Planter",
+            "shortDescription": "Create a simple self-watering planter from recycled materials.",
+            "estimatedTime": "1 hour",
+            "difficulty": "Easy", // << ADD THIS FIELD (or "Medium", "Hard", etc.)
+            "materials": [
+              "Plastic bottle (2-liter)",
+              "Cotton string or shoelace",
+              "Soil",
+              "Plant"
+            ],
+            "steps": [
+              "Clean the plastic bottle thoroughly.",
+              "Cut the bottle in half about 4-5 inches from the bottom.",
+              "Take the top part (with the spout) and unscrew the cap. Drill or poke a few small holes in the cap.",
+              "Thread a piece of cotton string (about 6-8 inches long) through the holes in the cap, so half is inside and half outside.",
+              "Screw the cap back onto the bottle's top part.",
+              "Invert the top part and place it into the bottom part. The string should hang down into the reservoir.",
+              "Fill the top part with soil and your plant. Fill the bottom reservoir with water."
+            ],
+            "imageUrl": null // "imageUrl" is correctly handled as nullable in your data class
+          }
+          // ... ensure ALL other DIY projects also have the "difficulty" field ...
+        ]
