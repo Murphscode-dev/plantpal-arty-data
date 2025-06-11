@@ -1,0 +1,30 @@
+[
+  {
+    "id": "pcs-001",
+    "category": "Plant Care", 
+    "title": "Mastering Houseplant Watering",
+    "summary": "Learn the golden rules of watering to keep your plants thriving, not drowning. Covers when, how, and how much for common plant types.",
+    "sourceName": "University of GoodPlants Extension",
+    "contentUrl": "https://www.example.edu/plant-watering-guide",
+    "difficulty": "Beginner" 
+  },
+  {
+    "id": "pcs-002",
+    "category": "Plant Safety",
+    "title": "Top 10 Plants Toxic to Cats & Dogs",
+    "summary": "Identify common houseplants that pose a risk to your furry friends. Includes symptoms to watch for.",
+    "sourceName": "ASPCA",
+    "contentUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+    "difficulty": "N/A"
+  },
+  {
+    "id": "pcs-003",
+    "category": "Plant Care",
+    "title": "Decoding Light for Indoor Plants",
+    "summary": "From low light to bright indirect, understand what your plants need and how to provide it in your home.",
+    "sourceName": "The Spruce",
+    "contentUrl": "https://www.thespruce.com/lighting-for-indoor-plants-1902900",
+    "difficulty": "Beginner"
+  }
+  
+]
