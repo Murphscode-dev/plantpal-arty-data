@@ -1,0 +1,27 @@
+[
+  {
+    "id": "ext-link-001",
+    "title": "Houseplant Care for Absolute Beginners",
+    "summary": "Your complete guide to starting your houseplant journey with success.",
+    "sourceName": "PlantInfo Central",
+    "articleUrl": "https://www.example.com/beginner-plant-care",
+    "imageUrl": "https://www.example.com/images/beginner_plants.jpg"
+  },
+  {
+    "id": "ext-link-002",
+    "title": "Top 5 Easiest Houseplants to Grow",
+    "summary": "Don't have a green thumb? These resilient plants are perfect for you.",
+    "sourceName": "EasyGrow Guides",
+    "articleUrl": "https://www.example.com/easy-houseplants",
+    "imageUrl": "https://www.example.com/images/easy_plants.jpg"
+  },
+  {
+    "id": "ext-link-003",
+    "title": "Understanding Light for Your Indoor Jungle",
+    "summary": "Learn how to assess light conditions and choose plants that will thrive.",
+    "sourceName": "Indoor Jungle Pro",
+    "articleUrl": "https://www.example.com/plant-lighting",
+    "imageUrl": "https://www.example.com/images/plant_lighting.jpg"
+  }
+  // You can add a 4th and 5th article here following the same structure
+]
