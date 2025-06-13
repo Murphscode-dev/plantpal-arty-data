@@ -5,7 +5,7 @@
     "shortDescription": "Create a beautiful, low-maintenance miniature desert landscape for your small succulents.",
     "estimatedTime": "1 - 1.5 hours",
     "difficulty": "Easy to Medium",
-    "materials": [ 
+    "materials": [
       "Clear glass container (e.g., bowl, vase, jar, or dedicated terrarium)",
       "Assorted small succulents (choose ones with similar light and water needs)",
       "Cactus and succulent potting mix",
@@ -13,8 +13,8 @@
       "Activated charcoal (optional, helps keep soil fresh)",
       "Sphagnum moss (optional, can separate soil from drainage)",
       "Decorative elements (e.g., colored sand, small stones, dried moss, miniature figurines - optional)"
-    ], 
-    "steps":  
+    ],
+    "steps": [
       "Select a clean, clear glass container.",
       "Create a drainage layer: Add a 1-2 inch layer of small pebbles or gravel at the bottom.",
       "Optional: Add a thin layer of activated charcoal over the pebbles.",
@@ -27,10 +27,9 @@
       "Lightly water the soil around the base of each succulent. Avoid overwatering; succulents prefer drier conditions.",
       "Place the terrarium in a spot that receives bright, indirect sunlight."
     ],
-    "articleUrl": "https://www.thespruce.com/diy-succulent-terrarium-7566763", 
-    "imageUrl": "https://images.unsplash.com/photo-1496678518751-46244eef08c4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" // <<< MOVED TO AFTER "articleUrl"
+    "articleUrl": "https://www.thespruce.com/diy-succulent-terrarium-7566763",
+    "imageUrl": "https://images.unsplash.com/photo-1496678518751-46244eef08c4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   }
-
 ]
 
 
