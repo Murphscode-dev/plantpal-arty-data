@@ -1,27 +1,35 @@
+
 [
-          {
-            "id": "diy001",
-            "title": "Self-Watering Planter",
-            "shortDescription": "Create a simple self-watering planter from recycled materials.",
-            "estimatedTime": "1 hour",
-            "difficulty": "Easy",
-            "materials": [
-              "Plastic bottle (2-liter)",
-              "Cotton string or shoelace",
-              "Soil",
-              "Plant"
-            ],
-            "steps": [
-              "Clean the plastic bottle thoroughly.",
-              "Cut the bottle in half about 4-5 inches from the bottom.",
-              "Take the top part (with the spout) and unscrew the cap. Drill or poke a few small holes in the cap.",
-              "Thread a piece of cotton string (about 6-8 inches long) through the holes in the cap, so half is inside and half outside.",
-              "Screw the cap back onto the bottle's top part.",
-              "Invert the top part and place it into the bottom part. The string should hang down into the reservoir.",
-              "Fill the top part with soil and your plant. Fill the bottom reservoir with water."
-            ],
-            "imageUrl": null 
-                    
-          }
-       
-        ]
+  {
+    "id": "diy_terrarium_01",
+    "title": "DIY Succulent Terrarium",
+    "shortDescription": "Create a beautiful, low-maintenance miniature desert landscape for your small succulents.",
+    "estimatedTime": "1 - 1.5 hours",
+    "difficulty": "Easy to Medium",
+    "materials": [
+      "Clear glass container (e.g., bowl, vase, jar, or dedicated terrarium)",
+      "Assorted small succulents (choose ones with similar light and water needs)",
+      "Cactus and succulent potting mix",
+      "Small pebbles or gravel (for drainage layer)",
+      "Activated charcoal (optional, helps keep soil fresh)",
+      "Sphagnum moss (optional, can separate soil from drainage)",
+      "Decorative elements (e.g., colored sand, small stones, dried moss, miniature figurines - optional)"
+    ],
+    "steps": [
+      "Select a clean, clear glass container.",
+      "Create a drainage layer: Add a 1-2 inch layer of small pebbles or gravel at the bottom.",
+      "Optional: Add a thin layer of activated charcoal over the pebbles.",
+      "Optional: Add a thin layer of sphagnum moss to prevent soil from mixing into the drainage layer.",
+      "Add a layer of cactus and succulent potting mix, deep enough for your succulents' roots (usually 2-4 inches).",
+      "Gently remove your succulents from their nursery pots, carefully loosening any compacted roots.",
+      "Arrange the succulents in the terrarium, considering height and spacing. Create small wells for each plant.",
+      "Plant the succulents, adding more soil around them to secure them in place. Gently pat the soil down.",
+      "Add any decorative elements on top of the soil if desired.",
+      "Lightly water the soil around the base of each succulent. Avoid overwatering; succulents prefer drier conditions.",
+      "Place the terrarium in a spot that receives bright, indirect sunlight."
+    ],
+    "articleUrl": "https://www.thespruce.com/diy-succulent-terrarium-7566763",
+    "imageUrl": "https://images.unsplash.com/photo-1496678518751-46244eef08c4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+ 
+]
