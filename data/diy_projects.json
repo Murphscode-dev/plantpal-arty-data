@@ -30,8 +30,8 @@
     "articleUrl": "https://www.thespruce.com/diy-succulent-terrarium-7566763",
     "imageUrl": "https://images.unsplash.com/photo-1496678518751-46244eef08c4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
-
-   "id": "diy_painted_pots_01",
+  {
+    "id": "diy_painted_pots_01",
     "title": "DIY Painted Terracotta Pots",
     "shortDescription": "Personalize your plant collection by giving plain terracotta pots a vibrant and unique makeover.",
     "estimatedTime": "1 - 2 hours (plus drying time)",
@@ -55,14 +55,12 @@
       "Use multiple thin coats of paint rather than one thick coat for better coverage and faster drying.",
       "Allow each color/coat to dry completely before adding another layer or a different color next to it.",
       "Once your designs are complete and fully dry, take the pots to a well-ventilated area (preferably outdoors).",
-      "Apply 1-2 thin, even coats of clear acrylic sealer spray to protect your paintwork, especially if the pots will be watered frequently or kept outdoors. Let the sealer dry completely according to the product instructions.",
+      "Apply 1-2 thin, even coats of clear acrylic sealer spray to protect your paintwork, especially if the pots will be watered frequently or kept outdoors. Let the sealer dry completely according to the instructions on the can.",
       "Your beautifully painted pots are ready for your favorite plants!"
     ],
     "articleUrl": "https://www.instructables.com/Painting-Terra-Cotta-Pots/",
-    "imageUrl": "https://images.unsplash.com/photo-1580467469359-91a73a6e92ca?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODB8fERJWSUyMFBhaW50ZWQlMjBUZXJyYWNvdHRhJTIwUG90c3xlbnwwfHwwfHx8MA%3D%3D"
+    "imageUrl": "https://images.unsplash.com/photo-1580467469359-91a73a6e92ca?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODB8fERJWSUyMFBhaW50ZWQlMjBUZXJyYWNvdHRhJT..."
   }
-
-
 ]
 
 
