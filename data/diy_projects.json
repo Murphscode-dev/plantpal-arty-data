@@ -30,6 +30,39 @@
     "articleUrl": "https://www.thespruce.com/diy-succulent-terrarium-7566763",
     "imageUrl": "https://images.unsplash.com/photo-1496678518751-46244eef08c4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   }
+
+   "id": "diy_painted_pots_01",
+    "title": "DIY Painted Terracotta Pots",
+    "shortDescription": "Personalize your plant collection by giving plain terracotta pots a vibrant and unique makeover.",
+    "estimatedTime": "1 - 2 hours (plus drying time)",
+    "difficulty": "Easy",
+    "materials": [
+      "Plain terracotta pots (various sizes)",
+      "Acrylic craft paints (assorted colors)",
+      "Paintbrushes (various sizes, including small for details)",
+      "Painter's tape (optional, for creating patterns)",
+      "Clear acrylic sealer spray (waterproof, for outdoor use or to protect the design)",
+      "Newspaper or drop cloth (to protect your work surface)",
+      "Water container (for rinsing brushes)",
+      "Palette or paper plate (for mixing paints)"
+    ],
+    "steps": [
+      "Clean the terracotta pots thoroughly and let them dry completely. Wipe off any dust.",
+      "Protect your work surface with newspaper or a drop cloth.",
+      "Optional: If creating geometric patterns or stripes, apply painter's tape to the pots to mask off areas.",
+      "Apply a base coat of paint if desired (e.g., white or a light color can make other colors pop). Let it dry.",
+      "Get creative! Paint your designs on the pots. You can do solid colors, patterns, polka dots, ombre effects, or freehand drawings.",
+      "Use multiple thin coats of paint rather than one thick coat for better coverage and faster drying.",
+      "Allow each color/coat to dry completely before adding another layer or a different color next to it.",
+      "Once your designs are complete and fully dry, take the pots to a well-ventilated area (preferably outdoors).",
+      "Apply 1-2 thin, even coats of clear acrylic sealer spray to protect your paintwork, especially if the pots will be watered frequently or kept outdoors. Let the sealer dry completely according to the product instructions.",
+      "Your beautifully painted pots are ready for your favorite plants!"
+    ],
+    "articleUrl": "YOUR_ARTICLE_URL_FOR_PAINTED_POTS_TUTORIAL_WILL_GO_HERE",
+    "imageUrl": "YOUR_FIREBASE_STORAGE_URL_FOR_PAINTED_POTS_IMAGE_WILL_GO_HERE"
+  }
+]
+
 ]
 
 
