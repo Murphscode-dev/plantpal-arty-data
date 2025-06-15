@@ -1,110 +1,75 @@
 [
   {
-    "id": "disease-crown-rot",
-    "name": "Crown rot",
-    "description": "Detailed information about Crown rot (disease).",
+    "id": "disease-powdery-mildew",
+    "name": "Powdery Mildew",
+    "description": "A fungal disease that appears as white or grayish powdery spots on leaves and stems. Thrives in moderate temperatures and high humidity with poor air circulation.",
     "symptoms": [
-      "Common symptoms caused by Crown rot."
+      "White or gray powdery patches on leaves, stems, and flowers",
+      "Leaves may yellow, dry out, and drop prematurely",
+      "Distorted new growth",
+      "Reduced plant vigor and flowering"
     ],
     "treatmentMethods": [
-      "Recommended treatments for Crown rot."
+      "Improve air circulation around plants",
+      "Remove and destroy infected plant parts",
+      "Fungicide sprays (e.g., neem oil, potassium bicarbonate, or sulfur-based)",
+      "Avoid overhead watering, water at the base of the plant"
     ],
-    "imageUrl": null
+    "imageUrl": "https://static.inaturalist.org/photos/484991230/medium.jpg"
   },
   {
-    "id": "disease-downy-mildiou",
-    "name": "Downy mildiou",
-    "description": "Detailed information about Downy mildiou (disease).",
+    "id": "disease-root-rot",
+    "name": "Root Rot",
+    "description": "Caused by overwatering and poorly draining soil, leading to oxygen deprivation and fungal/bacterial growth on roots. Roots become mushy and brown/black.",
     "symptoms": [
-      "Common symptoms caused by Downy mildiou."
+      "Wilting leaves, even when soil is moist",
+      "Yellowing or browning leaves, starting from the bottom of the plant",
+      "Stunted growth or leaf drop",
+      "Mushy, dark, and foul-smelling roots (if plant is unpotted for inspection)"
     ],
     "treatmentMethods": [
-      "Recommended treatments for Downy mildiou."
+      "Allow soil to dry completely before re-evaluating watering needs",
+      "Ensure pots have adequate drainage holes and use a well-draining potting mix",
+      "For affected plants: remove, trim away rotted roots with sterile tool, repot in fresh sterile soil",
+      "Water less frequently; check soil moisture before watering"
     ],
-    "imageUrl": null
+    "imageUrl": "https://img.freepik.com/free-photo/close-up-hands-holding-plant_23-2149235704.jpg?uid=R52714011&ga=GA1.1.1920374923.1746213970&semt=ais_hybrid&w=740"
   },
   {
-    "id": "disease-erwinia",
-    "name": "Erwinia",
-    "description": "Detailed information about Erwinia (disease).",
+    "id": "disease-fungal-leaf-spot",
+    "name": "Fungal Leaf Spot",
+    "description": "A common group of diseases caused by various fungi, resulting in spots on plant leaves. Spot appearance (color, size, shape) can vary widely based on the specific fungus and plant.",
     "symptoms": [
-      "Common symptoms caused by Erwinia."
+      "Circular or irregular spots on leaves (often brown, black, tan, or yellow)",
+      "Spots may develop a distinct border, a target-like pattern, or a colored halo",
+      "Affected leaf tissue may die and fall out, creating a 'shot-hole' appearance",
+      "Severe infections can lead to significant leaf drop and reduced plant health"
     ],
     "treatmentMethods": [
-      "Recommended treatments for Erwinia."
+      "Remove and destroy affected leaves immediately to reduce spore spread",
+      "Improve air circulation and avoid prolonged leaf wetness by watering at the soil level",
+      "Apply appropriate fungicides (copper-based, neem oil, or specific to fungus type) if problem persists",
+      "Clean up fallen debris around plants regularly"
     ],
-    "imageUrl": null
+    "imageUrl": "https://images.unsplash.com/photo-1601398853894-77e46fe390c2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZnVuZ2FsJTIwZGlzZXNlJTIwbGVhZnxlbnwwfHwwfHx8MA%3D%3D"
   },
   {
-    "id": "disease-fusarium",
-    "name": "Fusarium",
-    "description": "Detailed information about Fusarium (disease).",
+    "id": "disease-damping-off",
+    "name": "Damping Off",
+    "description": "A soil-borne fungal disease primarily affecting seedlings, causing them to rot at the soil line and collapse. Often occurs in overly wet, cool conditions with poor air circulation.",
     "symptoms": [
-      "Common symptoms caused by Fusarium."
+      "Seedlings fail to emerge from the soil",
+      "Emerged seedlings suddenly wilt and collapse at the soil line",
+      "Stems appear constricted, water-soaked, or discolored near the soil",
+      "White, cobweb-like fungal growth may be visible on soil or affected seedlings"
     ],
     "treatmentMethods": [
-      "Recommended treatments for Fusarium."
+      "Use sterile seed-starting mix and clean containers",
+      "Avoid overwatering; keep soil consistently moist but not waterlogged",
+      "Ensure good air circulation around seedlings (e.g., a small fan)",
+      "Sow seeds thinly to prevent overcrowding",
+      "Once started, there's no cure for affected seedlings; remove them to prevent spread"
     ],
-    "imageUrl": null
-  },
-  {
-    "id": "disease-gray-mold",
-    "name": "Gray mold",
-    "description": "Detailed information about Gray mold (disease).",
-    "symptoms": [
-      "Common symptoms caused by Gray mold."
-    ],
-    "treatmentMethods": [
-      "Recommended treatments for Gray mold."
-    ],
-    "imageUrl": null
-  },
-  {
-    "id": "disease-n-a",
-    "name": "N/A",
-    "description": "Detailed information about N/A (disease).",
-    "symptoms": [
-      "Common symptoms caused by N/A."
-    ],
-    "treatmentMethods": [
-      "Recommended treatments for N/A."
-    ],
-    "imageUrl": null
-  },
-  {
-    "id": "disease-phytophtora",
-    "name": "Phytophtora",
-    "description": "Detailed information about Phytophtora (disease).",
-    "symptoms": [
-      "Common symptoms caused by Phytophtora."
-    ],
-    "treatmentMethods": [
-      "Recommended treatments for Phytophtora."
-    ],
-    "imageUrl": null
-  },
-  {
-    "id": "disease-powdery",
-    "name": "Powdery",
-    "description": "Detailed information about Powdery (disease).",
-    "symptoms": [
-      "Common symptoms caused by Powdery."
-    ],
-    "treatmentMethods": [
-      "Recommended treatments for Powdery."
-    ],
-    "imageUrl": null
-  },
-  {
-    "id": "disease-pythium",
-    "name": "Pythium",
-    "description": "Detailed information about Pythium (disease).",
-    "symptoms": [
-      "Common symptoms caused by Pythium."
-    ],
-    "treatmentMethods": [
-      "Recommended treatments for Pythium."
-    ],
-    "imageUrl": null
+    "imageUrl": null 
   }
 ]
