@@ -1,97 +1,54 @@
 [
   {
-    "id": "pest-aphid",
-    "name": "Aphid",
-    "description": "Detailed information about Aphid (pest).",
+    "id": "pest-aphids",
+    "name": "Aphids",
+    "description": "Small, sap-sucking insects that cluster on new growth, causing yellowing leaves and stunted growth. They often secrete a sticky substance called honeydew.",
     "symptoms": [
-      "Common symptoms caused by Aphid."
+      "Yellowing or distorted leaves",
+      "Sticky honeydew on leaves/stems",
+      "Sooty mold growing on honeydew",
+      "Visible clusters of small insects (green, black, yellow, pink)"
     ],
     "treatmentMethods": [
-      "Recommended treatments for Aphid."
+      "Strong spray of water to dislodge",
+      "Introduce beneficial insects (ladybugs, lacewings)",
+      "Neem oil or insecticidal soap sprays",
+      "Prune heavily infested areas"
     ],
-    "imageUrl": null
+    "imageUrl": "https://images.unsplash.com/photo-1604839918397-846f50e754d1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YXBoaWRzfGVufDB8fDB8fHww"
   },
   {
-    "id": "pest-mealy-bug",
-    "name": "Mealy bug",
-    "description": "Detailed information about Mealy bug (pest).",
+    "id": "pest-spider-mites",
+    "name": "Spider Mites",
+    "description": "Tiny arachnids, difficult to see with the naked eye. They cause stippling on leaves and fine webbing, especially in hot, dry conditions.",
     "symptoms": [
-      "Common symptoms caused by Mealy bug."
+      "Yellow or bronze stippling on leaves",
+      "Fine webbing on undersides of leaves and between stems",
+      "Leaves may dry up and drop prematurely",
+      "Overall plant vigor reduction"
     ],
     "treatmentMethods": [
-      "Recommended treatments for Mealy bug."
+      "Increase humidity around plants",
+      "Wipe leaves with a damp cloth",
+      "Horticultural oil or miticide sprays",
+      "Regularly inspect new plants"
     ],
-    "imageUrl": null
+    "imageUrl": "https://images.unsplash.com/photo-1704504150780-7f091c1afe12?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHNwaWRlciUyMG1pdGVzfGVufDB8fDB8fHww"
   },
   {
-    "id": "pest-n-a",
-    "name": "N/A",
-    "description": "Detailed information about N/A (pest).",
+    "id": "pest-fungus-gnats",
+    "name": "Fungus Gnats",
+    "description": "Small, dark, mosquito-like insects that thrive in moist potting soil. Adults are mostly a nuisance, but larvae can damage roots, especially in seedlings.",
     "symptoms": [
-      "Common symptoms caused by N/A."
+      "Visible small black flies around plants or soil",
+      "Seedlings or young plants may wilt or show poor growth",
+      "Larvae (tiny, worm-like) may be visible in topsoil if disturbed"
     ],
     "treatmentMethods": [
-      "Recommended treatments for N/A."
-    ],
-    "imageUrl": null
-  },
-  {
-    "id": "pest-scale",
-    "name": "Scale",
-    "description": "Detailed information about Scale (pest).",
-    "symptoms": [
-      "Common symptoms caused by Scale."
-    ],
-    "treatmentMethods": [
-      "Recommended treatments for Scale."
-    ],
-    "imageUrl": null
-  },
-  {
-    "id": "pest-snail",
-    "name": "Snail",
-    "description": "Detailed information about Snail (pest).",
-    "symptoms": [
-      "Common symptoms caused by Snail."
-    ],
-    "treatmentMethods": [
-      "Recommended treatments for Snail."
-    ],
-    "imageUrl": null
-  },
-  {
-    "id": "pest-spider-mite",
-    "name": "Spider mite",
-    "description": "Detailed information about Spider mite (pest).",
-    "symptoms": [
-      "Common symptoms caused by Spider mite."
-    ],
-    "treatmentMethods": [
-      "Recommended treatments for Spider mite."
-    ],
-    "imageUrl": null
-  },
-  {
-    "id": "pest-thrips",
-    "name": "Thrips",
-    "description": "Detailed information about Thrips (pest).",
-    "symptoms": [
-      "Common symptoms caused by Thrips."
-    ],
-    "treatmentMethods": [
-      "Recommended treatments for Thrips."
-    ],
-    "imageUrl": null
-  },
-  {
-    "id": "pest-white-fly",
-    "name": "White fly",
-    "description": "Detailed information about White fly (pest).",
-    "symptoms": [
-      "Common symptoms caused by White fly."
-    ],
-    "treatmentMethods": [
-      "Recommended treatments for White fly."
+      "Allow soil to dry out between waterings",
+      "Use yellow sticky traps for adults",
+      "Apply beneficial nematodes to the soil for larvae",
+      "Top dress soil with sand or diatomaceous earth"
     ],
     "imageUrl": null
   }
