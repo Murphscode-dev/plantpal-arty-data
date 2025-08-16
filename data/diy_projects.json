@@ -55,15 +55,130 @@
       "Use multiple thin coats of paint rather than one thick coat for better coverage and faster drying.",
       "Allow each color/coat to dry completely before adding another layer or a different color next to it.",
       "Once your designs are complete and fully dry, take the pots to a well-ventilated area (preferably outdoors).",
-      "Apply 1-2 thin, even coats of clear acrylic sealer spray to protect your paintwork, especially if the pots will be watered frequently or kept outdoors. Let the sealer dry completely according to the instructions on the can.",
+      "Apply 1-2 thin, even coats of clear acrylic sealer spray to protect your paintwork, especially if the pots will be watered frequently or kept outdoors. Let the sealer dry completely according to instructions.",
       "Your beautifully painted pots are ready for your favorite plants!"
     ],
     "articleUrl": "https://www.instructables.com/Painting-Terra-Cotta-Pots/",
     "imageUrl": "https://images.unsplash.com/photo-1580467469359-91a73a6e92ca?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODB8fERJWSUyMFBhaW50ZWQlMjBUZXJyYWNvdHRhJT..."
+  },
+  {
+    "id": "diy_vertical_garden_01",
+    "title": "DIY Vertical Wall Garden",
+    "shortDescription": "Build a stunning living wall for herbs, succulents, or small flowers to maximize space and add greenery to any room.",
+    "estimatedTime": "3 - 4 hours",
+    "difficulty": "Advanced",
+    "materials": [
+      "Wooden pallet or modular wall planter system",
+      "Landscape fabric or plastic backing",
+      "Staple gun and staples",
+      "Potting soil (suitable for chosen plants)",
+      "Assorted small plants (herbs, succulents, or flowers)",
+      "Mounting hardware (anchors, screws, brackets)",
+      "Drill and screwdriver",
+      "Optional: waterproof liner, paint or stain for wood"
+    ],
+    "steps": [
+      "Select a sturdy wooden pallet or modular vertical planter system.",
+      "If using a pallet, attach landscape fabric or plastic backing securely to the back and bottom to hold soil.",
+      "Paint or stain the pallet for a finished look and let it dry completely.",
+      "Fill each section with potting soil, tamping down gently.",
+      "Plan the arrangement of your plants. Space them to allow room for growth.",
+      "Plant your herbs, succulents, or flowers, ensuring roots are well covered and secure.",
+      "Water lightly to settle soil, being careful not to overwater.",
+      "Mount your vertical garden securely to a wall using appropriate hardware.",
+      "Place in a location with suitable light for your chosen plants and enjoy your living wall!"
+    ],
+    "articleUrl": "https://www.architecturaldigest.com/story/how-to-make-vertical-garden",
+    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": "diy_self_watering_planter_01",
+    "title": "DIY Self-Watering Planter System",
+    "shortDescription": "Create a self-watering planter using recycled materials for consistent moisture and low-maintenance plant care.",
+    "estimatedTime": "2 - 3 hours",
+    "difficulty": "Advanced",
+    "materials": [
+      "Large plastic bottles or food-safe containers",
+      "Cotton rope or thick string (for wicking)",
+      "Potting mix",
+      "Plants (herbs or leafy greens work well)",
+      "Scissors or utility knife",
+      "Water",
+      "Optional: decorative wrap or paint"
+    ],
+    "steps": [
+      "Cut the plastic bottle in half. The top becomes the planter, the bottom the water reservoir.",
+      "Thread a length of cotton rope through the bottle cap, letting it hang into the reservoir.",
+      "Fill the top section with potting mix and plant your chosen herbs or greens.",
+      "Pour water into the reservoir (bottom half). Ensure the rope hangs into the water.",
+      "Insert the planter section into the reservoir so the rope touches the soil and water.",
+      "Water the soil lightly to start. The rope will wick moisture from the reservoir up to the soil.",
+      "Check the reservoir every few days and refill as needed.",
+      "Optional: Decorate the outside of your self-watering planter with paint or wrap!"
+    ],
+    "articleUrl": "https://www.thespruce.com/self-watering-planter-ideas-4586827",
+    "imageUrl": "https://images.unsplash.com/photo-1464983953574-0892a716854b?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": "diy_fire_pit_01",
+    "title": "DIY Backyard Stone Fire Pit",
+    "shortDescription": "Build a safe, attractive fire pit using stone or pavers for cozy outdoor gatherings year-round.",
+    "estimatedTime": "3 - 5 hours",
+    "difficulty": "Medium to Advanced",
+    "materials": [
+      "Concrete pavers or retaining wall stones",
+      "Gravel (for base drainage)",
+      "Shovel",
+      "Steel fire ring (optional for longevity)",
+      "Sand",
+      "Level",
+      "Tape measure",
+      "Spray paint (for marking)"
+    ],
+    "steps": [
+      "Choose a safe, flat location away from overhanging trees or structures.",
+      "Mark a circle (3-4 feet diameter) with spray paint.",
+      "Dig out the area to a depth of 6-8 inches.",
+      "Add and compact a 2-inch layer of gravel for drainage.",
+      "Lay out the first ring of stones or pavers in your circle, ensuring each is level.",
+      "Stack the next rings, staggering joints for stability.",
+      "Install a steel fire ring inside the stone circle for extra durability (optional).",
+      "Fill gaps with sand and tamp down.",
+      "Let the fire pit settle for a day, then enjoy with friends and family!"
+    ],
+    "articleUrl": "https://www.familyhandyman.com/project/how-to-build-a-fire-pit/",
+    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": "diy_outdoor_storage_bench_01",
+    "title": "DIY Outdoor Storage Bench",
+    "shortDescription": "Construct a stylish outdoor bench with hidden storage for patio cushions, gardening tools, or pool supplies.",
+    "estimatedTime": "4 - 6 hours",
+    "difficulty": "Medium to Advanced",
+    "materials": [
+      "Weather-resistant plywood or lumber",
+      "Wood screws",
+      "Drill",
+      "Saw",
+      "Measuring tape",
+      "Hinges (for lid)",
+      "Outdoor wood stain or paint",
+      "Sandpaper",
+      "Deck box liner or waterproof sealant (optional)"
+    ],
+    "steps": [
+      "Measure and cut plywood/lumber for the bench base, sides, and lid according to desired dimensions.",
+      "Sand all wood pieces to smooth rough edges.",
+      "Assemble the bench frame using wood screws and drill, ensuring it is square and sturdy.",
+      "Attach sides and back panels to the frame.",
+      "Install the hinged lid, ensuring smooth operation.",
+      "Apply outdoor wood stain or paint for protection and aesthetics.",
+      "Insert deck box liner or apply waterproof sealant inside for added moisture protection (optional).",
+      "Let dry completely before use.",
+      "Store cushions, tools, or other outdoor items inside and enjoy your new bench!"
+    ],
+    "articleUrl": "https://www.familyhandyman.com/project/how-to-make-an-outdoor-bench-with-hidden-storage/",
+    "imageUrl": "https://images.unsplash.com/photo-1505691723518-41cb85c5d1d2?q=80&w=2070&auto=format&fit=crop"
   }
 ]
-
-
-  
- 
 
