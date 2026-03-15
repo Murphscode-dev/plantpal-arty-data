@@ -1,14 +1,14 @@
 [
   {
     "id": "ext-link-004",
-    "title": "Why are my Monstera leaves turning yellow?",
-    "summary": "Discover the top reasons your indoor plants are losing their green and how to fix it.",
-    "sourceName": "WILDLENS FAQ",
-    "articleUrl": "",
+    "title": "Annual vs Perennial Plants (Queries Solved)",
+    "summary": "Everything you need to know about the lifespan of your garden.",
+    "sourceName": "WILDLENS FEATURED",
+    "articleUrl": "https://www.perenual.com/article/15", 
     "imageUrl": "https://images.unsplash.com/photo-1614594975525-e45190c55d40",
-    "perenualApiId": "345",
-    "perenualType": "FAQ"
-  },
+    "perenualApiId": null,
+    "perenualType": "EXTERNAL"
+  }
   {
     "id": "ext-link-001",
     "title": "Gardening Trends 2026: The Art of Lemonading",
