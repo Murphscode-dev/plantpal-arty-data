@@ -1,31 +1,31 @@
 [
   {
     "id": "ext-link-001",
-    "title": "Growing edible flowers",
-    "summary": "If in doubt dont eat it",
+    "title": "The Essential Guide to Growing Edible Flowers",
+    "summary": "Discover how to safely cultivate vibrant blooms for your kitchen. From pansies to nasturtiums, learn which flowers are delicious and why you should follow the golden rule: if in doubt, don't eat it.",
     "sourceName": "Bootstrap Farmer",
     "articleUrl": "https://share.google/eff1hSWUnL1EltmXd",
-    "imageUrl": "https://images.unsplash.com/photo-1693070058300-78ab7421d392?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "imageUrl": "https://images.unsplash.com/photo-1693070058300-78ab7421d392?q=80&w=1074&auto=format&fit=crop",
     "perenualApiId": null,
     "perenualType": "EXTERNAL"
   },
   {
     "id": "ext-link-002",
-    "title": "Backyard Gardening",
-    "summary": "Learn to grow your own food",
+    "title": "Mastering Backyard Gardening: Grow Your Own Food",
+    "summary": "Turn your lawn into a high-yield food source. This comprehensive guide covers soil preparation, plant selection, and seasonal maintenance to help you achieve total food independence right from your backyard.",
     "sourceName": "Bootstrap Farmer",
     "articleUrl": "https://share.google/LG8fhW2sWrRSElt8E",
-    "imageUrl": "https://images.unsplash.com/photo-1594498653385-d5172c532c00?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YmFja3lhcmQlMjBnYXJkZW58ZW58MHx8MHx8fDA%3D",
+    "imageUrl": "https://images.unsplash.com/photo-1523348837708-15d4a09cfac2?q=80&w=1070&auto=format&fit=crop",
     "perenualApiId": null,
     "perenualType": "EXTERNAL"
   },
   {
     "id": "ext-link-003",
-    "title": "Light Deprevation",
-    "summary": "How to implement and why you should",
+    "title": "Light Deprivation: Greenhouse Science Explained",
+    "summary": "Learn how to manipulate light cycles to trick your plants into flowering early. We break down the 'why' and 'how' of implementing light dep systems to maximize your harvests and control growth cycles.",
     "sourceName": "Bootstrap Farmer",
     "articleUrl": "https://share.google/IkQPzed3sQLhbJfcK",
-    "imageUrl": "https://images.unsplash.com/photo-1697342566063-a77aea25cc18?q=80&w=1071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "imageUrl": "https://images.unsplash.com/photo-1697342566063-a77aea25cc18?q=80&w=1071&auto=format&fit=crop",
     "perenualApiId": null,
     "perenualType": "EXTERNAL"
   }
