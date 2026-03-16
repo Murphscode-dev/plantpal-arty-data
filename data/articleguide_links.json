@@ -1,40 +1,30 @@
 [
   {
-    "id": "ext-link-004",
-    "title": "Annual vs Perennial Plants (Queries Solved)",
-    "summary": "Everything you need to know about the lifespan of your garden.",
-    "sourceName": "WILDLENS FEATURED",
-    "articleUrl": "https://www.perenual.com/article/15",
-    "imageUrl": "https://images.unsplash.com/photo-1614594975525-e45190c55d40",
-    "perenualApiId": null,
-    "perenualType": "EXTERNAL"
-  },
-  {
     "id": "ext-link-001",
-    "title": "Gardening Trends 2026: The Art of Lemonading",
-    "summary": "Designing with pets in mind.",
-    "sourceName": "Southern Living",
-    "articleUrl": "https://southernlivingplants.com/plan-your-garden/2026-garden-trends",
+    "title": "Growing edible flowers",
+    "summary": "If in doubt dont eat it",
+    "sourceName": "Bootstrap Farmer",
+    "articleUrl": "https://share.google/eff1hSWUnL1EltmXd",
     "imageUrl": "https://images.unsplash.com/photo-1693070058300-78ab7421d392?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "perenualApiId": null,
     "perenualType": "EXTERNAL"
   },
   {
     "id": "ext-link-002",
-    "title": "Top 5 Easiest Houseplants to Grow For Beginners",
-    "summary": "Don't have a green thumb? These resilient plants are perfect for you.",
-    "sourceName": "EasyGrow Guides",
-    "articleUrl": "https://www.thespruce.com/colorful-houseplants-for-beginners-11699696",
-    "imageUrl": "https://www.thespruce.com/thmb/2KvnSXrXqSnY7ehdj7DKwZscBTg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kararileycroton-10-8a5d30ab85094996a166383359209c02.jpg",
+    "title": "Backyard Gardening",
+    "summary": "Learn to grow your own food",
+    "sourceName": "Bootstrap Farmer",
+    "articleUrl": "https://share.google/LG8fhW2sWrRSElt8E",
+    "imageUrl": "https://unsplash.com/photos/green-grass-field-with-trees-1ff_i7jO-4g",
     "perenualApiId": null,
     "perenualType": "EXTERNAL"
   },
   {
     "id": "ext-link-003",
-    "title": "Understanding Light for Your Indoor Jungle",
-    "summary": "Learn how to assess light conditions and choose plants that will thrive.",
-    "sourceName": "Indoor Jungle Pro",
-    "articleUrl": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/light-for-houseplants/",
+    "title": "Light Deprevation",
+    "summary": "How to implement and why you should",
+    "sourceName": "Bootstrap Farmer",
+    "articleUrl": "https://share.google/IkQPzed3sQLhbJfcK",
     "imageUrl": "https://images.unsplash.com/photo-1697342566063-a77aea25cc18?q=80&w=1071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "perenualApiId": null,
     "perenualType": "EXTERNAL"
