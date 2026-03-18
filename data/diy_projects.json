@@ -1,5 +1,90 @@
 [
   {
+    "id": "diy_tomato_trellis_bf",
+    "title": "Heavy-Duty Tomato Trellis",
+    "shortDescription": "Support your tomato plants with this easy-to-build, professional-grade DIY trellis. Perfect for raised beds or in-ground gardens.",
+    "estimatedTime": "1 - 2 hours",
+    "difficulty": "Medium",
+    "materials": [
+      "Bootstrap Farmer EZ TEE Single 1\"",
+      "1/4-20 2\" Bolts with Nuts & EZ Caps",
+      "(3) 10' 1-3/8\" top rail (for trellis)",
+      "(1) 8' 1-5/8\" line posts (for ground posts)",
+      "Metal saw, measuring tape, hammer, and drill",
+      "String line and Level"
+    ],
+    "steps": [
+      "Measure and mark out the placement of your trellis.",
+      "Drive your ground posts into the ground as level as possible.",
+      "Slide one EZ Tee onto the top of each upright pipe.",
+      "Insert each upright into a ground post, sliding the pipe down until it bottoms out.",
+      "Drill a 1/4\" hole through the upright and secure with bolts.",
+      "Insert the horizontal top bar through the open ends of the EZ Tees.",
+      "Gently hammer the EZ Caps onto the open ends of the top bar to prevent rust.",
+      "Drape trellis netting over the top rail or tie twine to support your plants."
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1592841200221-a6898f307baa?q=80&w=2070&auto=format&fit=crop",
+    "articleUrl": "https://share.google/HeyJX925JBAYi7ILF",
+    "pdfUrl": "https://share.google/cInObQo7Jh0xt4c8G"
+  },
+  {
+    "id": "diy_garden_arch_bf",
+    "title": "DIY Garden Arch",
+    "shortDescription": "Build a beautiful, sturdy archway for vining plants and vegetables using EMT conduit.",
+    "estimatedTime": "2 - 3 hours",
+    "difficulty": "Medium",
+    "materials": [
+      "10x EMT connectors & 4x EMT splices",
+      "10x EMT caps & #8 self-tapping screws",
+      "4-foot hoop bender",
+      "5 or 6 pieces of 10-foot x 1/2 inch EMT pipe",
+      "Metal saw, power drill, 9/16 deep socket driver",
+      "Trellis netting or twine"
+    ],
+    "steps": [
+      "Mount the hoop bender on a sturdy object 5-6 feet above the ground.",
+      "Mark the EMT pipe and use the bender to create the curved hoop sections.",
+      "Insert an EMT splice into each end of the hoops and secure with self-tapping screws.",
+      "Connect the straight 3-foot sections to the splices to form the legs.",
+      "Use cross-connectors to join the hoops together at the apex.",
+      "Install bottom cross sections near the ground level for stability.",
+      "With a partner, push the arch into the ground in its final location.",
+      "Attach trellis netting over the arch for vines to grow."
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1631313335861-d44f363f6e03?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGdhcmRlbiUyMGFyY2h8ZW58MHx8MHx8fDA%3D",
+    "articleUrl": null,
+    "pdfUrl": "https://share.google/QxxIrYUFq0117CHwS"
+  },
+  {
+    "id": "diy_greenhouse_10x12_bf",
+    "title": "10x12 Hobby Greenhouse Build",
+    "shortDescription": "The ultimate backyard project. Construct a professional 10x12 hoop house to extend your growing season year-round.",
+    "estimatedTime": "Weekend Project",
+    "difficulty": "Advanced",
+    "materials": [
+      "Bootstrap Farmer 10x12 Kit (Hoops, Ridge Pole, Hardware)",
+      "Ground Stakes & Cross Connectors",
+      "Lock Channel & Spring Wire",
+      "Greenhouse Plastic & Shade Cloth",
+      "Lumber: 2x6 Baseboards & 2x4 Hipboards",
+      "Power drill, sledgehammer, level, tape measure, ladders"
+    ],
+    "steps": [
+      "PREP: Select a level area with good sun exposure and drainage.",
+      "BASE: Layout and square your footprint using a string line. Install ground stakes every 4 feet.",
+      "FRAME: Assemble the hoops on the ground, then lift and insert them into the ground stakes.",
+      "BRACING: Install the ridge pole across the top apex of the hoops and attach corner wind braces.",
+      "WOODWORK: Mount the 2x6 wood baseboards and 2x4 hipboards to the frame.",
+      "END WALLS: Frame out the front door and rear end wall.",
+      "PLASTIC: Wait for a calm, windless morning. Pull the greenhouse plastic over the frame.",
+      "SECURE: Lock the plastic into the channels using the zig-zag spring wire.",
+      "Please tap the button below to view the full official manual for exact measurements and diagrams."
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1768011850211-7cc9f06bbac5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fERJWSUyMEdSRUVOSE9VU0V8ZW58MHx8MHx8fDA%3D",
+    "articleUrl": null,
+    "pdfUrl": "https://share.google/Hd23KJhzfTqZbbw7a"
+  },
+  {
     "id": "diy_terrarium_01",
     "title": "DIY Succulent Terrarium",
     "shortDescription": "Create a beautiful, low-maintenance miniature desert landscape for your small succulents.",
@@ -27,14 +112,13 @@
       "Lightly water the soil around the base of each succulent. Avoid overwatering; succulents prefer drier conditions.",
       "Place the terrarium in a spot that receives bright, indirect sunlight."
     ],
-    "articleUrl": "https://www.thespruce.com/diy-succulent-terrarium-7566763",
-    "imageUrl": "https://images.unsplash.com/photo-1496678518751-46244eef08c4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "imageUrl": "https://images.unsplash.com/photo-1496678518751-46244eef08c4?q=80&w=2070&auto=format&fit=crop"
   },
   {
     "id": "diy_painted_pots_01",
     "title": "DIY Painted Terracotta Pots",
     "shortDescription": "Personalize your plant collection by giving plain terracotta pots a vibrant and unique makeover.",
-    "estimatedTime": "1 - 2 hours (plus drying time)",
+    "estimatedTime": "1 - 2 hours",
     "difficulty": "Easy",
     "materials": [
       "Plain terracotta pots (various sizes)",
@@ -58,8 +142,7 @@
       "Apply 1-2 thin, even coats of clear acrylic sealer spray to protect your paintwork, especially if the pots will be watered frequently or kept outdoors. Let the sealer dry completely according to instructions.",
       "Your beautifully painted pots are ready for your favorite plants!"
     ],
-    "articleUrl": "https://www.instructables.com/Painting-Terra-Cotta-Pots/",
-    "imageUrl": "https://images.unsplash.com/photo-1580467469359-91a73a6e92ca?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODB8fERJWSUyMFBhaW50ZWQlMjBUZXJyYWNvdHRhJT..."
+    "imageUrl": "https://images.unsplash.com/photo-1580467469359-91a73a6e92ca?w=500&auto=format&fit=crop"
   },
   {
     "id": "diy_vertical_garden_01",
@@ -88,8 +171,7 @@
       "Mount your vertical garden securely to a wall using appropriate hardware.",
       "Place in a location with suitable light for your chosen plants and enjoy your living wall!"
     ],
-    "articleUrl": "https://www.thespruce.com/diy-vertical-garden-ideas-7481062",
-    "imageUrl": "https://www.thespruce.com/thmb/aYjfYKKHXg8_o5eNtYdIl1tt0XE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/thepapermama-7270231681d54b0988fdf73c0d0757a7.jpg"
+    "imageUrl": "https://images.unsplash.com/photo-1591857177580-dc82b9ac4e1e?q=80&w=2000&auto=format&fit=crop"
   },
   {
     "id": "diy_self_watering_planter_01",
@@ -116,8 +198,7 @@
       "Check the reservoir every few days and refill as needed.",
       "Optional: Decorate the outside of your self-watering planter with paint or wrap!"
     ],
-    "articleUrl": "https://www.instructables.com/How-to-make-a-self-watering-container/",
-    "imageUrl": "https://content.instructables.com/FOY/5RMJ/G825CLM8/FOY5RMJG825CLM8.jpg?auto=webp&frame=1&fit=bounds&md=MjAxNC0wNi0xMSAxNzoxNDo1MS4w&_gl=1*okbsos*_ga*MTE3NTMwMjk2MC4xNzU1MzgzNDQ5*_ga_NZSJ72N6RX*czE3NTUzODM0NDkkbzEkZzEkdDE3NTUzODM0NDkkajYwJGwwJGgw"
+    "imageUrl": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?q=80&w=2000&auto=format&fit=crop"
   },
   {
     "id": "diy_fire_pit_01",
@@ -146,8 +227,7 @@
       "Fill gaps with sand and tamp down.",
       "Let the fire pit settle for a day, then enjoy with friends and family!"
     ],
-    "articleUrl": "https://www.instructables.com/DIY-Fire-Pit-and-Seating-Area/",
-    "imageUrl": "https://images.unsplash.com/photo-1601833256820-4fb291a66e0a?q=80&w=1522&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "imageUrl": "https://images.unsplash.com/photo-1601833256820-4fb291a66e0a?q=80&w=1522&auto=format&fit=crop"
   },
   {
     "id": "diy_outdoor_storage_bench_01",
@@ -177,8 +257,6 @@
       "Let dry completely before use.",
       "Store cushions, tools, or other outdoor items inside and enjoy your new bench!"
     ],
-    "articleUrl": "https://www.familyhandyman.com/project/how-to-build-an-outdoor-storage-bench/",
-    "imageUrl": "https://images.unsplash.com/photo-1722517273951-34dcabf3e67b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG91dGRvb3IlMjBzdG9yYWdlJTIwYmVuY2h8ZW58MHx8MHx8fDA%3D"
+    "imageUrl": "https://images.unsplash.com/photo-1722517273951-34dcabf3e67b?w=500&auto=format&fit=crop"
   }
 ]
-
